@@ -1,0 +1,24 @@
+{
+  "lsp": {
+    "lua-language-server": {
+      "initialization_options": {
+        "Lua": {
+          "diagnostics": {
+            "enable": false
+          }
+        }
+      }
+    }
+  },
+  "languages": {
+    "Lua": {
+      "diagnostics": {
+        "enabled": false
+      },
+      "language_servers": []
+    }
+  },
+  "diagnostics": {
+    "include_warnings": false
+  }
+}
